@@ -20,15 +20,15 @@ Para cada caso de teste, imprima a quantidade de vogais alienígenas corresponde
 Exemplos de Entrada  | Exemplos de Saída
 ------------- | -------------
 aeiou | 16
-' ' | 8
+" " | 8
 o rato roeu a roupa do rei de roma | 3
-' ' |
+" " |
 4310 |
-' ' |
+" " |
 t3st3 p4r4 c0d1f1c4r |
-' ' |
+" " |
 kwy |
-' ' |
+" " |
 the quick brown fox jumps over the lazy dog |
 
 
