@@ -19,9 +19,9 @@ Para cada caso de teste, imprima a quantidade de vogais alienígenas corresponde
 
 Exemplos de Entrada  | Exemplos de Saída
 ------------- | -------------
-aeiou |
-' ' |
-o rato roeu a roupa do rei de roma |
+aeiou | 16
+' ' | 8
+o rato roeu a roupa do rei de roma | 3
 ' ' |
 4310 |
 ' ' |
