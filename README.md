@@ -33,7 +33,7 @@ the quick brown fox jumps over the lazy dog |
 
 
 ```javascript
-//SOLUÇAO 1 - for..in
+//SOLUCAO 1 - for..in
 textoUm = gets();
 do {
     textoDois = gets();
